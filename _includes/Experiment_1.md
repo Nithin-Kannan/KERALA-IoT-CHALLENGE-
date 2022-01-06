@@ -9,7 +9,7 @@
 * Resistor
 
 ### Circuit Diagram:
-![Uploading Dazzling Waasa-Esboo (1).png…]()
+![Exp1.jpg](_includes/Exp1.jpg)
 
 ### Code:
 
