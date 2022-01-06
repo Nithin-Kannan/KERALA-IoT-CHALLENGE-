@@ -9,7 +9,7 @@
 * Resistor
 
 ### Circuit Diagram:
-![Exp1.jpg](_includes/Exp1.jpg)
+![Exp1](_includes/Exp1.jpg)
 
 ### Code:
 
