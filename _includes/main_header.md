@@ -1,2 +1,2 @@
-# **Here's my voyage in the Kerala IoT Challenge**
+## **Here's my voyage in the Kerala IoT Challenge
 
