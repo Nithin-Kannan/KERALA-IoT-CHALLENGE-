@@ -1,5 +1,5 @@
-# Experiment 1
-## Hello World LED Blinking
+# ***Experiment 1***
+> ## ***Hello World LED Blinking***
 ### __ITEMS NEEDED:-__
 * Arduino UNO
 * A Breadboard
@@ -15,21 +15,22 @@
 ### Code:
 
  ```
+int ledPin =7;
  void setup()
 {
-  pinMode(8, OUTPUT);
+  pinMode(ledPin, OUTPUT);
 }
 
 void loop()
 {
-  digitalWrite(8, HIGH);
+  digitalWrite(ledPin, HIGH);
   delay(1000); // Wait for 1000 millisecond(s)
-  digitalWrite(8, LOW);
+  digitalWrite(ledPin, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
 }
 
 ```
-### _Output:_
+### **_Output:_**
 We have an LED which blinks every second.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bePUHwVVi08" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
