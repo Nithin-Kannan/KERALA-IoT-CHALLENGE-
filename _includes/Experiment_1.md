@@ -9,7 +9,8 @@
 * Resistor
 
 ### Circuit Diagram:
-![Exp1](_includes/Exp1.jpg)
+![PicsArt_01-07-08 43 39 (1)](https://user-images.githubusercontent.com/81525399/148564636-1ef01d45-4654-4daf-bda9-8f3fff9760d3.jpg)
+
 
 ### Code:
 
