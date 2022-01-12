@@ -10,6 +10,7 @@
 
 ## 🔌***Circuit Diagram:***
 
+![traffic light](https://user-images.githubusercontent.com/81525399/149192556-5f793df0-5425-45c8-9387-06b0a1a92aac.jpg)
 
 
 ## 💻***Code:***
