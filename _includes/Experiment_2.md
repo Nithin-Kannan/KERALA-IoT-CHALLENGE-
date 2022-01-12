@@ -45,7 +45,7 @@ digitalWrite(redled, LOW);// turn off red LED
 }
 
 ```
-## ✨**_Output:_**
+## ✨ **_Output:_**
 > We have three LEDs which act as traffic lights namely RED, YELLOW and GREEN which goes in such a way that the green glows for 5 seconds, then the yellow starts blinking followed by which the red light comes up which also stays lit for around 5 seconds, proceeding which the green light starts glowing again which continues a cycle.
 
 <iframe width="560" height="315" src="    " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
