@@ -16,7 +16,7 @@ layout: default
 
 <br>
 
-{% include Experiment _2.md %}
+{% include Experiment_2.md %}
 
 <br>
 
