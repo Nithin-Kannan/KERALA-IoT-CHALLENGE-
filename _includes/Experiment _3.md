@@ -1,5 +1,5 @@
-# Experiment 3
-## LED Chasing Effect
+# ✏️ ***Experiment 3***
+> ## ***LED Chasing Effect***
 ### __ITEMS NEEDED:-__
 * Arduino UNO
 * A Breadboard
@@ -8,14 +8,15 @@
 * USB cable to connect the arduino
 * Resistors (6x)
 
-### Circuit Diagram:
+## 🔌 ***Circuit Diagram:***
+
+![LED Chasing](https://user-images.githubusercontent.com/81525399/149196662-9a273156-1927-4b70-abad-9da58932b467.jpg)
 
 
-
-### Code:
+## 💻 ***Code:***
 
  ```
-int BASE = 2 ;  // the IO pin for the first LED
+int BASE = 2 ;  // the I/O pin for the first LED
 int NUM = 6;   // number of LEDs
 void setup()
 {
@@ -38,7 +39,7 @@ void loop()
    }  
 }
 ```
-### _Output:_
+## ✨ **Output:_**
 We get a chasing effect of a set of LEDs which could be compared to old billboards which had colourful LEDs with lighting effects.
 
 <iframe width="560" height="315" src="  " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
