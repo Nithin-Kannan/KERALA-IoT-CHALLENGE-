@@ -1,5 +1,5 @@
 # ✏️***Experiment 2***
-## Traffic Light
+## ***Traffic Light***
 ### __ITEMS NEEDED:-__
 * Arduino UNO
 * A Breadboard
