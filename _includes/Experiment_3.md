@@ -16,7 +16,7 @@
 ## 💻 ***Code:***
 
  ```
-int BASE = 2 ;  // the I/O pin for the first LED
+int BASE = 2;  // the I/O pin for the first LED
 int NUM = 6;   // number of LEDs
 void setup()
 {
