@@ -10,8 +10,9 @@
 
 ### Circuit Diagram:
 
+![rgB](https://user-images.githubusercontent.com/81525399/150523090-ff182480-7d6e-41d1-bdaf-5478e998f260.png)
 
-![RGB](https://user-images.githubusercontent.com/81525399/150519518-eb17d8cd-78a2-4023-a285-be3a61f921eb.jpg)
+
     ![led RGB](https://user-images.githubusercontent.com/81525399/150521586-d0eac855-49ae-4d1a-bee9-aefe24581f43.jpg)
 
 
