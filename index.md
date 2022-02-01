@@ -58,11 +58,11 @@ layout: default
 
 <br>
 
-{% include Experiment_10.md %}
+
 
 <br>
 
-{% include Experiment_11.md%}
+
 
 <br>
 
