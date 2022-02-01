@@ -1,4 +1,4 @@
-# ✏️***Experiment 11***
+# ✏️***Experiment_11***
 
 > ## ***Potentiometer Analog Value Reading***
 
