@@ -58,7 +58,7 @@ layout: default
 
 <br>
 
-{% include Experiment_10.md %}
+
 
 <br>
 
