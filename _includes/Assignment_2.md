@@ -1,16 +1,16 @@
-#Assignment 2
+# Assignment 2
 
-##Create a Digital Dice using 6 LEDs and 1 Push Button
+## Create a Digital Dice using 6 LEDs and 1 Push Button
 
-##Components Required
+## Components Required:
 * Arduino Uno
 * Breadboard
 * pushbuttion
 * Jumper wire
 * Restsor 220 ohm
 
-###Code
-'''
+### Code:
+```
 int triggerButton = 2;
 
 int bottomLeftLED = 3;
@@ -258,5 +258,5 @@ digitalWrite(bottomRightLED, LOW);
 digitalWrite(upperRight, LOW);
 
 }
-'''
+```
 Output
