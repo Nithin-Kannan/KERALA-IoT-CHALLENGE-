@@ -2,7 +2,7 @@
 
 ### Create an automatic night lamp model using LDR and LED
 
-### Components
+### Components Required:
 * Arduino Uno
 * Breadboard
 * RED,GREEN LED
@@ -10,7 +10,8 @@
 * Restsor 220 ohm 10 k
 * LDR Senso
 
-### Code
+### Code:
+```
 
 #define LDR A0// LDR CONNECT A0
 
@@ -45,7 +46,7 @@ digitalWrite(LED,LOW);
 
 }
 
-
+```
 ### Output
 
 
