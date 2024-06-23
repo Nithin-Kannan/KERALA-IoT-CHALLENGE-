@@ -1,4 +1,4 @@
-# ✏️***Experiment_11***
+# ✏️***Experiment_10***
 
 > ## ***Potentiometer Analog Value Reading***
 
@@ -41,9 +41,3 @@ Serial.println(val);// display val’s value
 
 
 ```
-
-## ✨**_Output:_**
-
->  Potentiometer's Values are obtained.   
-
-<iframe width="560" height="315" src="https://youtube.com/embed/lHR-o3JnTGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
