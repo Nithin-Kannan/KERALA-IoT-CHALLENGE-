@@ -25,7 +25,3 @@ digitalWrite(buzzer, HIGH); // produce sound
 }
 
 ```
-### _Output:_
-A buzzer starts producing sound
-
-<iframe width="560" height="315" src="https://youtube.com/embed/zvo2fE1Ialc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
