@@ -40,9 +40,3 @@ delay(500);// wait for 0.5 second
 
 
 ```
-### _Output:_
-The temperature of the surroundings will be constantly  displayed on the serial monitor. In this case, we use the serial monitor on the arduino application itself. 
-
-
-<iframe width="560" height="315" src="    " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
